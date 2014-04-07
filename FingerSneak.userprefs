@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PathFinding/PathTracker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PathFinding/PathTracker.cs" Line="16" Column="31" />
+      <File FileName="Assets/Scripts/VisionScript.cs" Line="13" Column="6" />
+      <File FileName="Assets/Scripts/Controllers/GameController.cs" Line="36" Column="66" />
+      <File FileName="Assets/Scripts/Controllers/InputCon.cs" Line="28" Column="57" />
+      <File FileName="Assets/Scripts/SoundWave.cs" Line="26" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="PathFinding" expanded="True">
+                <Node name="PathTracker.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this.playerController.transform.localPosition</Value>
+          <Value>this.canMove</Value>
+          <Value>this.touched</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
